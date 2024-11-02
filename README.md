@@ -16,11 +16,18 @@
 
 ## Hello, Everyone!!
 
-Tenho 34 anos, moro em São Paulo/ZL e sou apaixonado por soluções e desafios! Tenho uma vasta experiência em automação utilizando Ansible para gestão de configuração de infraestrutura. 
+About me
 
-<p align="center">
-  <img src="img/ansible.gif" width="350">
-</p>
+Helping the private pension market to build fully managed environments they can work with/in. Making the best use of computational resources either on-premise or in public clouds.
+
+Work experience with projects, Infrastructure evolve and Cloud Solutions:
+- Work experience management VMware Environments with high availability;
+- Work experience implementing Network Virtualization ( NSX for vSphere and NSX-T ); 
+- Work experience in Firewall CheckPoint;
+- Work experience in automation with Ansible, Ansible Tower (Red Hat® Ansible® Automation Platform) and Shell Scripts;
+- Work experience planning containerized applications to move to the cloud (AWS);
+-Bachelor in Information os Systems with an MBA in DevOps Engineering Integration Architecture
+
 
 ❤ Evangelista de IaC com `Terraform` ❤
 
@@ -40,12 +47,6 @@ Tenho 34 anos, moro em São Paulo/ZL e sou apaixonado por soluções e desafios!
 
 
 </br>
-
-- 👋 Hi, I’m @kduchagaslima
-- 👀 I’m interested in development and automation focused in IaC...
-- 🌱 I’m currently learning Cloud Computing (AWS, Azure, GCP), K8s (Openshift, Tanzu)...
-- 💞️ I’m looking to collaborate on automation with Ansible and Tower AWX...
-- 📫 How to reach me kduchagas.lima@gmail.com ...
 
 <!---
 kduchagaslima/kduchagaslima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
