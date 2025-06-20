@@ -26,7 +26,8 @@ Work experience with projects, Infrastructure evolve and Cloud Solutions:
 - Work experience in Firewall CheckPoint;
 - Work experience in automation with Ansible, Ansible Tower (Red Hat® Ansible® Automation Platform) and Shell Scripts;
 - Work experience planning containerized applications to move to the cloud (AWS);
--Bachelor in Information os Systems with an MBA in DevOps Engineering Integration Architecture
+- Solution architect for a private pension company, responsible for migrating critical systems from an on-premises OpenShift platform to AWS using ECS;
+- Bachelor in Information Systems with an MBA in DevOps Engineering Integration Architecture
 
 
 ❤ Evangelista de IaC com `Terraform` ❤
