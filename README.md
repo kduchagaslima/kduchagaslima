@@ -1,5 +1,5 @@
 
-<div dsplay="inline-block">
+<div display="inline-block">
  
  <h1 align="left">Carlos Eduardo Lima</h1>
  <a href="https://www.instagram.com/dudu.lima/">
